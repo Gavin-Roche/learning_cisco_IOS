@@ -1,0 +1,2 @@
+# Introduction to Networks
+This folder contains all the labs from Introduction to Networks, the first part of the CCNA certification. I completed these labs to deepen my understanding of Cisco IOS and improve my networking skills.
