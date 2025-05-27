@@ -1,0 +1,2 @@
+# Routing and Switching Essentials
+This folder contains all the labs from Routing and Switching Essentials - Module 1, the second part of the CCNA certification. I completed these labs to refresh and revise my knowledge of Cisco IOS after a short period without practice.
