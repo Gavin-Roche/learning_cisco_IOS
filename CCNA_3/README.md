@@ -1,0 +1,2 @@
+# Enterprise Networking, Security, and Automation
+This folder contains all the labs from Enterprise Networking, Security, and Automation - Modules 1 and 2, the third part of the CCNA certification. I completed these labs to refresh and enhance my knowledge of Cisco IOS after a period without practice.
